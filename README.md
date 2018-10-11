@@ -21,10 +21,10 @@ npm install level --save
 ## Testing
 
 To test code:
-1: Open a command prompt or shell terminal after install node.js.
-2: Enter in command prompt: node starter.js
-3: Follow the instruction on the screen
-4: Have fun!!
+- 1: Open a command prompt or shell terminal after install node.js.
+- 2: Enter in command prompt: ```node starter.js```
+- 3: Follow the instruction on the screen
+- 4: Have fun!!
 
 
 ### Prerequisites
