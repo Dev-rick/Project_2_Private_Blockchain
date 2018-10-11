@@ -1,6 +1,6 @@
 # Blockchain Data
 
-Blockchain has the potential to change the way that the world approaches data. Here is a private blockchain that let you secure private messages on the blockchain. So have fun!
+Blockchain has the potential to change the way that the world approaches data. Here is a private blockchain that let you secure private messages. So have fun!
 
 
 ## Getting Started
